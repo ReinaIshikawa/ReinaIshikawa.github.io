@@ -19,6 +19,9 @@ body {
 	list-style:none;
 	margin-left: 50px;
 }
+.gnav{
+  display: flex;
+}
 
 .gnav__menu{
     display: flex;
